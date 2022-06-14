@@ -24,5 +24,6 @@ public class LoggerTest {
         logger.warn("warn info");
         logger.error("error info");
     }
+    //fs
 
 }
